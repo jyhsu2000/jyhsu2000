@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![KID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyhsu2000&count_private=true&show_icons=true)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![KID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyhsu2000&count_private=true&show_icons=true)](https://github.com/jyhsu2000)
