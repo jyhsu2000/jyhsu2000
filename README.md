@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![KID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyhsu2000&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/jyhsu2000)  
 [![KID's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyhsu2000&layout=compact)](https://github.com/jyhsu2000)
-
-![](https://raw.githubusercontent.com/jyhsu2000/jyhsu2000/output/github-contribution-grid-snake.svg)
